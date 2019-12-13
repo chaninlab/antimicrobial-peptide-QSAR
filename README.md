@@ -14,6 +14,7 @@ In order to facilitate the reproducibility of this work, this repository include
 File name | Description
 --- | ---
 S1.xlsx | Peptide_sequence, activity and raw descriptors
+S2.zip | Multiple sequence alignment guide tree
 S3.xlsx | Raw prediction performance
 S4.xlsx | Important descriptor list
 S5.xlsx | Unique descriptor count
