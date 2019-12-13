@@ -21,3 +21,10 @@ S5.xlsx | Unique descriptor count
 
 ## Acknowledgement
 This work is supported by the Center of Excellence on Medical Biotechnology (CEMB), S&T Postgraduate Education and Research Development Office (PERDO), Office of Higher Education Commission (OHEC), Thailand.
+
+### Citing this work
+If you find this work useful, please cite:
+
+> Li H, Nantasenamat C. 
+[Toward insights on determining factors for high activity in antimicrobial peptides via machine learning](http://www.peerj.com). ***PeerJ*** 
+In Press.
